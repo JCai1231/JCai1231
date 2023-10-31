@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCai1231
-- 👀 I’m interested in math 
+- 👀 I’m math enthusiast 
 - 🌱 I’m currently learning computer science and math
 - 💞️ I’m looking to collaborate on my research topics
 
