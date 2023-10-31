@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCai1231
-- 👀 I’m math and operation research enthusiast 
+- 👀 I’m math, cs and operation research enthusiast 
 - 💞️ I’m looking to collaborate on my research topics
 
 <!---
